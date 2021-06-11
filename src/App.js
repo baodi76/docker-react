@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          hello there!!! and bye!!! sometime you know import {  } from "";
+          hello there!!! and bye!!! sometime;
         </p>
         <a
           className="App-link"
